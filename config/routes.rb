@@ -5,5 +5,5 @@ end
 =end
 
 Rails.application.routes.draw do 
-  root 'application#goodbye'
+  root 'application#spanish'
 end
